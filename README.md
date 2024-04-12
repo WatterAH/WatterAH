@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A passionate Full Stack developer from México</h3>
 
+![Banner](banner.png)
+
 - 🔭 I’m currently working on [Feedgames](feedgames.vercel.app)
 
 - 👨‍💻 All of my projects are available at [wattersam.vercel.app](wattersam.vercel.app)
