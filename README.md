@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A passionate Full Stack developer from México</h3>
 
-<img src="www.canva.com/design/DAGCPiZOeiY/_WRAyB4fpUUXzOjn2Trb8Q/view?embed" align="center" />
+<img src="https://zptrwdrgobouoriwsfoj.supabase.co/storage/v1/object/public/Images/images/Banner.jpg" align="center" />
 
 - 🔭 I’m currently working on [Feedgames](feedgames.vercel.app)
 
