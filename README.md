@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Feedgames](https://feedgames.vercel.app)
 
-- 👨‍💻 All of my projects are available at [wattersam.vercel.app](wattersam.vercel.app)
+- 👨‍💻 All of my projects are available at [https://wattersam.vercel.app](wattersam.vercel.app)
 
 - 💬 Ask me about **React.js & express.js**
 
