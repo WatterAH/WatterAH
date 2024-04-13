@@ -3,7 +3,7 @@
 
 <img src="./Banner.png" />
 
-- 🔭 I’m currently working on [Feedgames](feedgames.vercel.app)
+- 🔭 I’m currently working on [Feedgames](https://feedgames.vercel.app)
 
 - 👨‍💻 All of my projects are available at [wattersam.vercel.app](wattersam.vercel.app)
 
