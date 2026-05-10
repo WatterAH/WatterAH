@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZDIzZDY0M2M0YjBkYjY0ZDIzZDY0M2M0YjBkYjY0ZDIzZDY0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30px"> Hi, I'm Samuel Tlahuel
+# Hi, I'm Samuel Tlahuel
 
 <p align="center">
   <img src="./Banner.png" width="100%" />
